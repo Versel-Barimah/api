@@ -1,6 +1,7 @@
-[
+{
+   posts: [
     "id": 1,
     "title": "Title of post 1",
     "description": "This is a description from api",
-    
-]
+    ],
+}
